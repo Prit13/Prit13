@@ -6,4 +6,4 @@
 - Trying to contribute open source project
 - DSA
 ### 💬 My Social Handles
-<a href="https://github.com/Prit13"><img src = "https://img.shields.io/badge/GitHub-Prit-blue?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/Prit-Yadav/"><img src = "https://img.shields.io/badge/LinkedIn-Prit-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"></a> <a href="https://twitter.com/Prit33"><img src = "https://img.shields.io/badge/Twitter-Prit-blue?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://github.com/Prit13"><img src = "https://img.shields.io/badge/GitHub-Prit-blue?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/Prit-Yadav/"><img src = "https://img.shields.io/badge/LinkedIn-Prit-blue?style=for-the-badge&logo=LinkedIn&logoColor=white"></a> <a href="https://twitter.com/Prit_33"><img src = "https://img.shields.io/badge/Twitter-Prit-blue?style=for-the-badge&logo=twitter&logoColor=white"></a>
